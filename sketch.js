@@ -122,3 +122,6 @@ function mouseDragged(){
 function mouseReleased(){
   slingShot.fly();
 }
+
+if(keyCode===32){
+  ball.setPosition(50,200)
