@@ -125,3 +125,4 @@ function mouseReleased(){
 
 if(keyCode===32){
   ball.setPosition(50,200)
+}
